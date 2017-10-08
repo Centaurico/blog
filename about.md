@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+We needed a place to write about what we find interesting (or just worth sharing), so here it is.
+In order to make it as easy as possible for the blog (and site) maintenance, we decided to use static sites and they are working pretty well.
+So a big *thank you* to Github, Jekyll and Netlify for their technology.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+The Centaurico team
